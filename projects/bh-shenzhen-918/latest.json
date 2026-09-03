@@ -1,0 +1,82 @@
+{
+  "kind": "booming-poster-cloud-release",
+  "version": 1,
+  "projectId": "bh-shenzhen-918",
+  "projectName": "2026-09-18｜Booming Hub 深圳 AI×硬件",
+  "updatedAt": "2026-09-03T05:58:09Z",
+  "updatedBy": "voyayueliang",
+  "posters": [
+    {
+      "id": "public-recruitment-1",
+      "name": "竖版活动海报｜公开招募·软硬共创",
+      "headlineTop": "软硬共创",
+      "headlineMain": "做 AI 的，做硬件的，相逢在被定义之前",
+      "english": "SOFTWARE × HARDWARE: BUILD TOGETHER",
+      "location": "深圳",
+      "date": "9月18日（周五）",
+      "time": "19:00–22:00",
+      "note": "合作单位",
+      "color": "#1021c7",
+      "format": "portrait",
+      "logos": [
+        {
+          "id": "dcg-foundry-logo",
+          "name": "DCG Foundry",
+          "src": "https://voyayueliang.github.io/booming-poster-studio/assets/dcg-foundry-logo-reverse.png",
+          "scale": 1,
+          "backplate": false,
+          "slot": 0
+        }
+      ],
+      "background": "https://voyayueliang.github.io/booming-poster-studio/assets/booming-hub-1211-portrait-background.png",
+      "locked": true,
+      "fontSizes": {
+        "headlineTop": 330,
+        "headlineMain": 92,
+        "english": 80,
+        "info": 117,
+        "note": 28
+      },
+      "qrCode": {
+        "name": "公开报名二维码",
+        "src": "https://voyayueliang.github.io/booming-poster-studio/assets/public-registration-qr.png"
+      },
+      "qrLabel": "公开招募｜扫码报名",
+      "variant": "public"
+    },
+    {
+      "id": "wechat-header-1",
+      "name": "公众号头图｜软硬共创",
+      "headlineTop": "软硬共创",
+      "headlineMain": "做 AI 的，做硬件的，相逢在被定义之前",
+      "english": "SOFTWARE × HARDWARE: BUILD TOGETHER",
+      "location": "",
+      "date": "",
+      "time": "",
+      "note": "支持伙伴",
+      "color": "#1021c7",
+      "format": "wechat",
+      "logos": [
+        {
+          "id": "dcg-foundry-logo",
+          "name": "DCG Foundry",
+          "src": "https://voyayueliang.github.io/booming-poster-studio/assets/dcg-foundry-logo-reverse.png",
+          "scale": 1,
+          "backplate": false,
+          "slot": 0
+        }
+      ],
+      "background": "https://voyayueliang.github.io/booming-poster-studio/assets/booming-hub-1211-header-background.png",
+      "locked": true,
+      "fontSizes": {
+        "headlineTop": 430,
+        "headlineMain": 118,
+        "english": 118,
+        "info": 117,
+        "note": 28
+      },
+      "qrLabel": "",
+      "variant": "header"
+    }
+  ]
+}
